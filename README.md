@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on autonomous robotics platform for elderly and smart factories https://axyn.fr
+- 🌱 I’m currently learning ROS2 developement, 3D-printing and web app development, but I'm curious by nature so I want to learn almost everything 😎
+- 👯 I’m looking to collaborate on smart robotics for sunstainable and evironment-friendly projets 
+- 🌐 My portfolio : https://thibal.eu
+
 <!--
 **thibs-sigma/thibs-sigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
