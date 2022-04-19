@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Linkedin: thiltenbrand](https://img.shields.io/badge/-thiltenbrand-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiltenbrand/)](https://www.linkedin.com/in/thiltenbrand/)
+
 - 🔭 I’m currently working on autonomous robotics platform for elderly and smart factories https://axyn.fr
 - 🌱 I’m currently learning ROS2 developement, 3D-printing and web app development, but I'm curious by nature so I want to learn almost everything 😎
 - 👯 I’m looking to collaborate on smart robotics for sunstainable and evironment-friendly projets 
