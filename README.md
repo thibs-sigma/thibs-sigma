@@ -51,6 +51,9 @@
 
 [![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibs-sigma&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibs-sigma&hide=makefile,cmake,javascript,Common%20Lisp&layout&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!-- Weekly stats: https://github.com/anmol098/waka-readme-stats -->
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thibssigma)](https://github.com/anuraghazra/github-readme-stats) -->
 
