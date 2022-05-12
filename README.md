@@ -52,7 +52,7 @@
 [![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibs-sigma&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibs-sigma&hide=makefile,cmake,javascript,Common%20Lisp&layout&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,18 +72,18 @@
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      5 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.32% 
-Java                     4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.6% 
-XML                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
-Groovy                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
-INI                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.95%
+C++                      5 hrs 6 mins        ████████████░░░░░░░░░░░░░   50.17% 
+Java                     2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   22.3% 
+YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+XML                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.2% 
+INI                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.75%
 
 🔥 Editors: 
-VS Code                  6 hrs 17 mins       ████████████░░░░░░░░░░░░░   51.22% 
-Android Studio           5 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.78%
+VS Code                  7 hrs 12 mins       █████████████████░░░░░░░░   70.75% 
+Android Studio           2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   29.25%
 
 💻 Operating System: 
-Linux                    12 hrs 16 mins      █████████████████████████   100.0%
+Linux                    10 hrs 11 mins      █████████████████████████   100.0%
 
 ```
 
@@ -100,7 +100,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 11/05/2022 18:50:49 UTC
+ Last Updated on 12/05/2022 18:53:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- Weekly stats: https://github.com/anmol098/waka-readme-stats -->
