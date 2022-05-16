@@ -52,7 +52,7 @@
 [![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibs-sigma&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibs-sigma&hide=makefile,cmake,javascript,Common%20Lisp&layout&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%208%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -100,7 +100,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2022 18:49:03 UTC
+ Last Updated on 16/05/2022 18:51:51 UTC
 <!--END_SECTION:waka-->
 
 <!-- Weekly stats: https://github.com/anmol098/waka-readme-stats -->
