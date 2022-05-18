@@ -52,7 +52,7 @@
 [![Thibaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=thibs-sigma&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &emsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thibs-sigma&hide=makefile,cmake,javascript,Common%20Lisp&layout&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **🐱 My GitHub Data** 
 
@@ -72,18 +72,19 @@
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C++                      8 hrs 46 mins       ███████████████████░░░░░░   76.27% 
-YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
-Java                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
-C                        13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95% 
-CMake                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+C++                      5 hrs 20 mins       ██████████████░░░░░░░░░░░   56.29% 
+YAML                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.04% 
+Java                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
+Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.97% 
+Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.77%
 
 🔥 Editors: 
-VS Code                  10 hrs 35 mins      ███████████████████████░░   92.05% 
-Android Studio           54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.95%
+VS Code                  8 hrs 43 mins       ███████████████████████░░   91.88% 
+Android Studio           46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.12%
 
 💻 Operating System: 
-Linux                    11 hrs 30 mins      █████████████████████████   100.0%
+Linux                    7 hrs 46 mins       ████████████████████░░░░░   81.84% 
+Mac                      1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.16%
 
 ```
 
@@ -100,7 +101,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/05/2022 18:51:51 UTC
+ Last Updated on 18/05/2022 18:50:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- Weekly stats: https://github.com/anmol098/waka-readme-stats -->
